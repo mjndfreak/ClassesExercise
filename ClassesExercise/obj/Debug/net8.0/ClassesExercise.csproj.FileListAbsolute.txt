@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/bin/Debug/net8.0/ClassesExercise
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/bin/Debug/net8.0/ClassesExercise.deps.json
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/bin/Debug/net8.0/ClassesExercise.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/bin/Debug/net8.0/ClassesExercise.dll
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/bin/Debug/net8.0/ClassesExercise.pdb
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/obj/Debug/net8.0/ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/obj/Debug/net8.0/ClassesExercise.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/obj/Debug/net8.0/ClassesExercise.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/obj/Debug/net8.0/ClassesExercise.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/obj/Debug/net8.0/ClassesExercise.dll
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/obj/Debug/net8.0/refint/ClassesExercise.dll
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/obj/Debug/net8.0/ClassesExercise.pdb
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/obj/Debug/net8.0/ClassesExercise.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/ClassesExercise/ClassesExercise/obj/Debug/net8.0/ref/ClassesExercise.dll
